@@ -1,0 +1,4 @@
+#Justputtopleveldomainandsuffixinhere
+commonlybrowsedsite.com
+amazon.com
+google.com
